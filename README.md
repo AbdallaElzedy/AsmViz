@@ -7,6 +7,11 @@
 
 
 ![AsmViz arithmetic visualization](AsmViz-Arth.png)
+![AsmViz arithmetic visualization](AsmViz_instructions.png)
+
+
+
+
 
 
 AsmViz is a small, browser-based tool for exploring and understanding **x86-64 assembly code**.
