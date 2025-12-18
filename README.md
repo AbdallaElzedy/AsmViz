@@ -18,7 +18,7 @@ AsmViz is a small, browser-based tool for exploring and understanding **x86-64 a
 
 It was built as a learning companion, not a simulator, debugger, or assembler, with the goal of making low-level code easier to see, follow, and understand.
 
-The idea for this project grew out of **CS61 (Systems Programming and Machine Organization)** at **Harvard University**, a course that focuses on how software interacts with hardware, including memory layout, calling conventions, and assembly programming. Spending time with assembly during the course made it clear how helpful a gentle visual aid could be.
+The idea for this project grew out of **CS61 (Systems Programming and Machine Organization) Fall 2025 ** at **Harvard University**, a course that focuses on how software interacts with hardware, including memory layout, calling conventions, and assembly programming. Spending time with assembly during the course made it clear how helpful a gentle visual aid could be.
 
 Live demo:  
 https://abdallaelzedy.github.io/AsmViz/
@@ -34,7 +34,6 @@ During CS61, much of the challenge was not writing assembly, but understanding w
 - how control flow emerges from jumps and labels,
 - how common instruction patterns appear again and again.
 
-AsmViz was created to slow things down and make those ideas more visible.
 
 ---
 
@@ -52,7 +51,6 @@ AsmViz was created to slow things down and make those ideas more visible.
 - A debugger
 - A replacement for professional systems tools
 
-The emphasis is on clarity rather than completeness.
 
 ---
 
@@ -102,27 +100,12 @@ AsmViz works best alongside lectures, textbooks, and traditional tools such as `
 - No real execution or register emulation
 - Best suited for small to medium snippets
 
-For deep debugging or performance work, dedicated systems tools are still essential.
-
----
-
-## Looking Ahead
-
-Possible directions this project could grow into include:
-
-- Support for Intel syntax
-- Clearer data-flow visualization
-- Improved representations of calling conventions
-- Exportable views for teaching material
-
-These are ideas rather than promises, and the project remains guided by learning needs.
 
 ---
 
 ## Author
 
 Built by **Abdalla Elzedy**  
-as a personal learning project and a small contribution toward making systems programming more approachable.
 
 ---
 
