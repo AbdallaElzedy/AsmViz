@@ -120,12 +120,6 @@ These are ideas rather than promises, and the project remains guided by learning
 
 ---
 
-## Acknowledgments
-
-This project was inspired by **CS61 at Harvard University**, whose focus on systems programming and machine organization highlights both the challenge and the elegance of working close to the hardware.
-
----
-
 ## Author
 
 Built by **Abdalla Elzedy**  
