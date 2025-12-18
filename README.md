@@ -89,7 +89,6 @@ A few built-in examples are included if you want to start by exploring rather th
 ## Design Notes
 
 - The analysis is heuristic-based and intentionally conservative
-- The tool avoids guessing when information is unclear
 - The output is meant to support learning, not simulate execution
 
 AsmViz works best alongside lectures, textbooks, and traditional tools such as `gdb` or `objdump`.
